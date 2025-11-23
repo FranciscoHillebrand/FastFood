@@ -1,0 +1,16 @@
+# --- Archivos de Sistema (Windows) ---
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# --- SQL Server (Archivos de Base de Datos y Logs) ---
+# Importante: Nunca subir la base de datos viva, solo scripts o backups (.bak)
+*.mdf
+*.ldf
+*.ndf
+
+# --- Archivos Temporales y Logs de Errores ---
+*.log
+*.tmp
+ErrorLog
+
