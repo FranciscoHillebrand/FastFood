@@ -25,11 +25,11 @@ Una parte crucial del proyecto fue traducir los requisitos de negocio en un mode
 
 ### Diagrama Entidad-Relación (DER)
 Se identificaron las entidades clave (Sucursales, Empleados, Productos, Ventas) y sus relaciones lógicas.
-![DER](DER.png)
+![DER](DER.jpeg)
 
 ### Modelo Relacional Implementado
 Estructura final de la base de datos lista para producción en SQL Server.
-![Modelo Relacional](MODELO RELACIONAL.png)
+![Modelo Relacional]('MODELORELACIONAL.png')
 
 ---
 
