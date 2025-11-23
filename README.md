@@ -24,7 +24,7 @@ Utilizando **SQL Server**, se abarcó el ciclo completo del dato: desde el dise�
 Una parte crucial del proyecto fue traducir los requisitos de negocio en un modelo de base de datos eficiente.
 
 ### Diagrama Entidad-Relación (DER)
-Se identificaron las entidades clave (Sucursales, Empleados, Productos, Ventas) y sus relaciones lógicas.
+Se identificaron las entidades clave y sus relaciones lógicas.
 ![DER](DER.jpeg)
 
 ### Modelo Relacional Implementado
