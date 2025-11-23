@@ -29,7 +29,7 @@ Se identificaron las entidades clave (Sucursales, Empleados, Productos, Ventas) 
 
 ### Modelo Relacional Implementado
 Estructura final de la base de datos lista para producción en SQL Server.
-![Modelo Relacional]('MODELORELACIONAL.png')
+![Modelo Relacional](MODELORELACIONAL.png)
 
 ---
 
